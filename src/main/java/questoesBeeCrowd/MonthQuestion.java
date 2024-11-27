@@ -1,3 +1,5 @@
+package questoesBeeCrowd;
+
 import java.util.Scanner;
 
 public class MonthQuestion {

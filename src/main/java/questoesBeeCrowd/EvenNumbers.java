@@ -1,3 +1,5 @@
+package questoesBeeCrowd;
+
 public class EvenNumbers {
     public static void main(String[] args) {
         int n = 2;
