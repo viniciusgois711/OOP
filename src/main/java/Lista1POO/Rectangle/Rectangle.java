@@ -1,9 +1,9 @@
 package Lista1POO.Rectangle;
 
-public class Subject {
+public class Rectangle {
     private double base, height;
 
-    public Subject(double base, double height){
+    public Rectangle(double base, double height){
         this.base = base;
         this.height = height;
     }
