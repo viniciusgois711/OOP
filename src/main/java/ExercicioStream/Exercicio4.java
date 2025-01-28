@@ -9,7 +9,7 @@ public class Exercicio4 {
         
         List<String> nomes = Arrays.asList("nomeTeste1", "nomeTest2", "nomeTeste3");
 
-        String nomesConcatenados = nomes.stream().collect(Collectors.joining());
+        String nomesConcatenados = nomes.stream().collect(Collectors.joining(","));
 
         System.out.println(nomesConcatenados);
     }   
